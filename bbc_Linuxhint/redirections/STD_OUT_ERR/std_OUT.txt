@@ -1,0 +1,16 @@
+	----------------------------------------------------
+This text is addition 1 added through redirection 
+This text is added through redirection
+(seond line)
+This text is added addition 2 through redirection 
+This text is added through redirection
+(seond line)
+----------------------------------------------------
+	----------------------------------------------------
+This text is addition 1 added through redirection 
+This text is added through redirection
+(seond line)
+This text is added addition 2 through redirection 
+This text is added through redirection
+(seond line)
+----------------------------------------------------
