@@ -1,0 +1,87 @@
+================NOTES================
+-------------------------------------
+
+++++++++++++ Day 1 with bash learning+++++++++++++++
+
+ls or l		# list all files and directories in current directory
+rm		#remove file or empty directory
+rm -r  		#remove file or directly recursively
+pwd		#please working directory
+mkdir		#make new directory
+echo		#display message on terminal
+echo"...message..." >> someFile.txt	# save message to text file named as someFile.txt
+lscpu		#containing cpu information
+lspci 		#showing Peripheral Component Interconnects
+arch		# showing system architecture whether x86 or x86_64
+
+++++++++++++ Day 2 with bash learning+++++++++++++++
+
+mv		# rename file name e.g, mv oldName newName
+cd ~		# go to home directory
+cd /		# go to root directory
+-l		# show all files and directories in "Long formate" e.g, l -l
+-a		# listing all files and directories including hidden file (hidden file starts from ".")
+-X		# to show files with their respective extensions
+-S		# to show files and directories with their size
+ Absolute path: path starts with back slash "/". This path starts from root directory
+ Relative path: this path written with "~" and this path measured from home directory
+-r		# to change order from alphabatically reverse order.
+-R		# to show path recursively (folder/subFolders/subSubFolder....)
+- 		# to show only hidder file/directories (Hidden file/directories name starts from . operator).
+Saving command output into separete text file
+cat		# save arguments in newly created file   e.g, cat >> newFile.txt
+history		# show all the commands written by user
+# 		# single line comment
+: ' mlc '	# multiline comment
+
+++++++++++++ Day 3 with bash learning+++++++++++++++
+touch 		// create file 
+read		// read user input and store it into variable e.g, read marks
+chmod 000 fileName	# no permission for owner[0--] , group(containing multiple users) [-0-], general user [--0]
+0 :	# no permission	(---)
+1 : 	# execute permission (--x)
+2 : 	# wirte permission (-w-)
+3 : 	# write and execute permission (-wx)
+4 : 	# read permission (r--)		[just can copy and read]
+5 : 	# read and execute permission (r-x)
+6 : 	# read and write permission (rw-)
+7 : 	# read, write and execute permission (rwx)
+
+NOTE: to execute file we don't just have need of EXECUTE PERMISSION. We can execute file atleast if we have READ and EXECUTE permission.
+
+WORKED WITH THE FILE 
+	- /home/idrees/learningBash/bashShortCourse/4.input.sh
+	- /home/idrees/learningBash/bashShortCourse/5.std_output.sh
+	- /home/idrees/learningBash/bashShortCourse/case.sh
+	- /home/idrees/learningBash/bashShortCourse/if-else.sh
+	- /home/idrees/learningBash/bashShortCourse/loops.sh
+	- /home/idrees/learningBash/bashShortCourse/
+	- /home/idrees/learningBash/bashShortCourse/
+	- /home/idrees/learningBash/bashShortCourse/
+	
+	
+
+
+
+
+
+++++++++++++ Day 4 with bash learning+++++++++++++++
+
+
+
+
+WORKED WITH THE FILE 
+-:  Some previous day revision.
+-:  ABSOLUTE way for set permissions (using digits like 1 for execute permission etc.)
+-:  SYMBOLIC way to set permissions like chmod g+x fileName etc.
+
+	- /home/idrees/learningBash/bashShortCourse/projects/terminaltofile.sh
+	- 
+	- 
+	- 
+
+++++++++++++ Day 5 with bash learning+++++++++++++++
+
+
+
+

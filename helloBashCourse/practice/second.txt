@@ -1,0 +1,13 @@
+
+
+=======START OF FILE second.txt============
+Randal K. Michael is a UNIX Systems Administrator working as a contract consultant.
+He teaches UNIX shell scripting in corporate settings, where he writes shell scripts to
+address a variety of complex problems and tasks, ranging from monitoring systems to
+replicating large databases. He has more than 30 years of experience in the industry
+and 15 years of experience as a UNIX Systems Administrator, working on AIX, HP-UX,
+Linux, OpenBSD, and Solaris.
+
+_____________THE END OF THE FILE second.txt____________________________
+
+

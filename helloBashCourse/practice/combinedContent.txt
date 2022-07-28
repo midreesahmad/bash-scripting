@@ -1,0 +1,74 @@
+========== FIRST LINE OF THE FILE combinedFile.txt
+
+
++++++++++++START OF THE FILE first.txt++++++++++++++++
+ adding text at very first line second time
+ adding text at very first line
+The Unix operating system popularized the notion of separating the shell (the
+ adding text at very at 4th line of the file
+part of the system that lets you type commands) from everything else: the
+input/output system, the scheduler, memory management, and all of the other
+things the operating system takes care of for you (and that most users don’t
+want to care about). The shell was just one more program; it was a program
+whose job was executing other programs on behalf of users.
+-------END OF FIRST FILE----------
+--------------------HERE IS THE END OF FILE first.txt------------------------
+
+
+
+
+=======START OF FILE second.txt============
+Randal K. Michael is a UNIX Systems Administrator working as a contract consultant.
+He teaches UNIX shell scripting in corporate settings, where he writes shell scripts to
+address a variety of complex problems and tasks, ranging from monitoring systems to
+replicating large databases. He has more than 30 years of experience in the industry
+and 15 years of experience as a UNIX Systems Administrator, working on AIX, HP-UX,
+Linux, OpenBSD, and Solaris.
+
+_____________THE END OF THE FILE second.txt____________________________
+
+
+
+
+=======START OF FILE second.txt============
+Randal K. Michael is a UNIX Systems Administrator working as a contract consultant.
+He teaches UNIX shell scripting in corporate settings, where he writes shell scripts to
+address a variety of complex problems and tasks, ranging from monitoring systems to
+replicating large databases. He has more than 30 years of experience in the industry
+and 15 years of experience as a UNIX Systems Administrator, working on AIX, HP-UX,
+Linux, OpenBSD, and Solaris.
+
+_____________THE END OF THE FILE second.txt____________________________
+
+
+
+
++++++++++++START OF THE FILE first.txt++++++++++++++++
+ adding text at very first line second time
+ adding text at very first line
+The Unix operating system popularized the notion of separating the shell (the
+ adding text at very at 4th line of the file
+part of the system that lets you type commands) from everything else: the
+input/output system, the scheduler, memory management, and all of the other
+things the operating system takes care of for you (and that most users don’t
+want to care about). The shell was just one more program; it was a program
+whose job was executing other programs on behalf of users.
+-------END OF FIRST FILE----------
+--------------------HERE IS THE END OF FILE first.txt------------------------
+
+
+
+
+=======START OF FILE second.txt============
+Randal K. Michael is a UNIX Systems Administrator working as a contract consultant.
+He teaches UNIX shell scripting in corporate settings, where he writes shell scripts to
+address a variety of complex problems and tasks, ranging from monitoring systems to
+replicating large databases. He has more than 30 years of experience in the industry
+and 15 years of experience as a UNIX Systems Administrator, working on AIX, HP-UX,
+Linux, OpenBSD, and Solaris.
+
+++++++++++ THE END OF THE second.txt FILE==================
+_____________THE END OF THE FILE second.txt____________________________
+
+
+-------------------- THE END OF THE FILE combinedContent.txt ---------------------
